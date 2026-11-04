@@ -25,7 +25,6 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
-  distDir: "build",
   poweredByHeader: false,
   compress: true,
   images: {

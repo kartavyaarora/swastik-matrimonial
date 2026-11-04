@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { ServiceForm } from "@/components/forms/service-form";
-import { PageHero } from "@/components/page-hero";
 import { pageMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = pageMetadata(
